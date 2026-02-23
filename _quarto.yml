@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "your_name.research()"
+  title: "Zubin.research()"
   favicon: favicon.ico
   
   navbar: false          # we're using sidebar, not top nav

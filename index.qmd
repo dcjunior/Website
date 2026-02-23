@@ -61,7 +61,7 @@ page-layout: full
   </div>
   <div class="avatar-wrap">
     <div class="avatar">
-      <img src="images/photo.jpg" alt="Your Name" onerror="this.parentElement.innerHTML='<span class=avatar-placeholder>YN</span>'"/>
+      <img src="images/photo.jpg" alt="Zubin Datta Choudhary" onerror="this.parentElement.innerHTML='<span class=avatar-placeholder>YN</span>'"/>
     </div>
     <div class="avatar-accent"></div>
   </div>
