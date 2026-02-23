@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "your_name.research()"
+  favicon: favicon.ico
+  
+  navbar: false          # we're using sidebar, not top nav
+  
+  sidebar:
+    style: "docked"
+    background: "dark"
+    contents:
+          - text: "~ home"
+            href: index.qmd
+          - text: "~ research"
+            href: research/index.qmd
+          - text: "~ blog"
+            href: blog/index.qmd
+          - text: "~ media_bank"
+            href: media.qmd
+
+format:
+  html:
+    theme: [darkly, custom.scss]   # darkly = dark base, custom.scss = your overrides
+    css: styles.css
+    toc: false
+    code-fold: true                # R/Python code blocks can collapse — great for blog posts
+    code-tools: true

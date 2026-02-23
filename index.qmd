@@ -1,0 +1,133 @@
+---
+title: ""
+page-layout: full
+---
+```{=html}
+<div class="hero">
+  <div class="hero-text">
+    <div class="greeting">> hello, world()</div>
+    <h1>Zubin Datta Choudhary
+    </h1>
+    <p class="bio">
+     PhD candidate in Computer Science at the University of Central Florida, advised by <a href="https://sreal.ucf.edu/sreal/people/welch/" target="_blank">Dr. Gregory Welch</a>. 
+     I earned my undergraduate degree in Computer Science and Engineering from SRM University, India, in 2019. 
+     I focus on human perception and cognition in virtual environments, and I have led multiple VR human-subject studies. 
+     I have authored over 13 publications and holds 3 patents in the field.
+    </p>
+    <div class="tags">
+      <span class="tag">VR / AR/ XR</span>
+      <span class="tag">Cognition (Memory)</span>
+      <span class="tag">Visual Perception</span>
+      <span class="tag">Unity</span>
+      <span class="tag">HCI</span>
+      <span class="tag">R · Python</span>
+    </div>
+    <div class="contact">
+    <span class="at-symbol">@</span>
+    <a href="mailto:zubinchoudhary@ucf.edu" class="email-link">zubinchoudhary[at]university.edu</a>
+    </div>
+    <div class="links-row">
+    <a href="https://scholar.google.com/citations?hl=en&user=s7N9ZhIAAAAJ&view_op=list_works" class="scholar-link">
+        <span class="icon">🎓</span> 
+        <span class="label">Google Scholar</span>
+    </a>
+
+    <a href="https://sreal.ucf.edu" class="lab-link">
+        <img src="images/sreal.png" alt="Lab Logo" class="lab-logo-img">
+    </a>
+    </div>
+    <div class="location">
+    <div class="radar-dot"></div>
+    <span>Orlando, Florida, USA <span class="tz">— GMT-5</span></span>
+    </div>
+    <div class="alert">
+    <span class="alert-tag">NEW</span>
+    <span class="alert-msg">Planning to travel to IEEE VR 2026 Daegu, South Korea from March 19 - 25th.</span>
+    </div>
+    <div class="status">
+      <span class="dot"></span>
+      status: writing dissertation && building in Unity
+    </div>
+    <div class="cv-row">
+        <a href="files/cv.pdf" download class="cv-button">
+            ↓ download cv
+        </a>
+        <span class="cv-updated">// last updated: Feb 2026</span>
+    </div>
+    <div class="listening">
+    <span class="music-icon">♫</span>
+    <span>listening to: <span class="track-name"><a href="https://www.youtube.com/watch?v=xt0TEQBLvmc&list=RDxt0TEQBLvmc&start_radio=1" target="_blank">TATRAN - Lemon</a></span></span>
+    </div>
+  </div>
+  <div class="avatar-wrap">
+    <div class="avatar">
+      <img src="images/photo.jpg" alt="Your Name" onerror="this.parentElement.innerHTML='<span class=avatar-placeholder>YN</span>'"/>
+    </div>
+    <div class="avatar-accent"></div>
+  </div>
+</div>
+```
+
+## Research
+```{=html}
+<div class="cards">
+  <div class="card">
+    <div class="card-label"># VR · HCI · Memory</div>
+    <h3>Effects of VR Spatial Transitions on Users' Memory</h3>
+    <p>Investigating how transition design affects the how users' remember their experience.</p>
+  </div>
+  <div class="card">
+    <div class="card-label"># AR · Visual Perception </div>
+    <h3> Visial Perception of UI in AR HMDs</h3>
+    <p> Exploring how different features of AR HMDs might affect the perception of AR content.</p>
+  </div>
+</div>
+```
+
+## Latest
+```{=html}
+<div class="feed">
+  <div class="feed-item">
+    <div class="feed-meta">
+      <span class="feed-date">Jan 2026</span>
+      <span class="feed-tag tag-research">research</span>
+    </div>
+    <div class="feed-content">Conference paper accepted at IEEE VR’2026, Daegu, South Korea</div>
+  </div>
+  <div class="feed-item">
+    <div class="feed-meta">
+      <span class="feed-date">Aug 2025</span>
+      <span class="feed-tag tag-life">life</span>
+    </div>
+    <div class="feed-content">Completed Chateaubriand fellowship and returned to Orlando.</div>
+  </div>
+  <div class="feed-item">
+    <div class="feed-meta">
+      <span class="feed-date">Mar 2025</span>
+      <span class="feed-tag tag-research">research</span>
+    </div>
+    <div class="feed-content">Organized IDEATExR workshop, student volunteer and presented poster at IEEE VR 2025, Saint Malo, France.</div>
+  </div>
+  <div class="feed-item">
+    <div class="feed-meta">
+      <span class="feed-date">Jan 2025</span>
+      <span class="feed-tag tag-life">life</span>
+    </div>
+    <div class="feed-content">Moved to Rennes, France to begin as a Chateaubriand Fellow (2024-25) 
+    at Inria under Dr. Ferran Argelaguet's supervision.</div>
+  </div>
+</div>
+```
+
+## Latest Posts
+```{=html}
+<div class="posts">
+  <div class="post-item">
+    <div class="post-date">Feb 2026</div>
+    <div>
+      <div class="post-title">Your first blog post title goes here</div>
+      <div class="post-excerpt">A short description of what the post is about.</div>
+    </div>
+  </div>
+</div>
+```
