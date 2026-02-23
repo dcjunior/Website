@@ -1,22 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "Code",
-    "crumbs": [
-      "~ home"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "",
@@ -27,33 +10,13 @@
     ]
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "",
     "section": "",
     "text": "Code",
     "crumbs": [
-      "~ cv"
-    ]
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "",
-    "section": "",
-    "text": "Code",
-    "crumbs": [
-      "~ blog"
-    ]
-  },
-  {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "",
-    "section": "",
-    "text": "Code",
-    "crumbs": [
-      "~ media_bank"
+      "~ home"
     ]
   },
   {
@@ -62,6 +25,16 @@
     "title": "",
     "section": "Research",
     "text": "Research\n\n  \n    # VR · HCI · Memory\n    Effects of VR Spatial Transitions on Users' Memory\n    Investigating how transition design affects the how users' remember their experience.\n  \n  \n    # AR · Visual Perception \n     Visial Perception of UI in AR HMDs\n     Exploring how different features of AR HMDs might affect the perception of AR content.",
+    "crumbs": [
+      "~ home"
+    ]
+  },
+  {
+    "objectID": "index.html#latest",
+    "href": "index.html#latest",
+    "title": "",
+    "section": "Latest",
+    "text": "Latest\n\n  \n    \n      Jan 2026\n      research\n    \n    Conference paper accepted at IEEE VR’2026, Daegu, South Korea\n  \n  \n    \n      Aug 2025\n      life\n    \n    Completed Chateaubriand fellowship and returned to Orlando.\n  \n  \n    \n      Mar 2025\n      research\n    \n    Organized IDEATExR workshop, student volunteer and presented poster at IEEE VR 2025, Saint Malo, France.\n  \n  \n    \n      Jan 2025\n      life\n    \n    Moved to Rennes, France to begin as a Chateaubriand Fellow (2024-25) \n    at Inria under Dr. Ferran Argelaguet's supervision.",
     "crumbs": [
       "~ home"
     ]
@@ -77,13 +50,37 @@
     ]
   },
   {
-    "objectID": "index.html#latest",
-    "href": "index.html#latest",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
     "title": "",
-    "section": "Latest",
-    "text": "Latest\n\n  \n    \n      Jan 2026\n      research\n    \n    Conference paper accepted at IEEE VR’2026, Daegu, South Korea\n  \n  \n    \n      Aug 2025\n      life\n    \n    Completed Chateaubriand fellowship and returned to Orlando.\n  \n  \n    \n      Mar 2025\n      research\n    \n    Organized IDEATExR workshop, student volunteer and presented poster at IEEE VR 2025, Saint Malo, France.\n  \n  \n    \n      Jan 2025\n      life\n    \n    Moved to Rennes, France to begin as a Chateaubriand Fellow (2024-25) \n    at Inria under Dr. Ferran Argelaguet's supervision.",
+    "section": "",
+    "text": "Code",
     "crumbs": [
-      "~ home"
+      "~ blog"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "~ media_bank"
     ]
   }
 ]
