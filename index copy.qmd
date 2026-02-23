@@ -119,3 +119,15 @@ page-layout: full
 </div>
 ```
 
+## Latest Posts
+```{=html}
+<div class="posts">
+  <div class="post-item">
+    <div class="post-date">Feb 2026</div>
+    <div>
+      <div class="post-title">Your first blog post title goes here</div>
+      <div class="post-excerpt">A short description of what the post is about.</div>
+    </div>
+  </div>
+</div>
+```
