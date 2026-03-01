@@ -12,15 +12,6 @@ page-layout: full
      I’m a PhD student in Computer Science at the University of Central Florida.
      I work in the <a href="https://sreal.ucf.edu/" target="_blank">SREAL lab</a>, advised by <a href="https://sreal.ucf.edu/sreal/people/welch/" target="_blank">Dr. Gregory Welch</a>.  
      My research investigates user perception and cognition with display technologies.
-     Here are some of my work:
-     1) Visual enhancements of virtual humans   
-
-     My resarch spans users visual perception of content with such displays and memory of their experience  
-     I build expeirments with VR, AR and CAVE displays, primarily with Unity.
-     Study human behav
-     , such as VR, AR and CAVE displays.
-     My current research interests are  
-     I build experiments, and study human behavior.
     </p>
     <div class="tags">
       <span class="tag">VR / AR/ XR</span>
