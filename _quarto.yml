@@ -23,8 +23,8 @@ website:
 
 format:
   html:
-    theme: [darkly, custom.scss]   # darkly = dark base, custom.scss = your overrides
-    css: styles.css
+    theme: [darkly, custom.scss]
     toc: false
-    code-fold: true                # R/Python code blocks can collapse — great for blog posts
+    code-fold: true
     code-tools: true
+    lightbox: true
